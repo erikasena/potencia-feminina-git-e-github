@@ -5,3 +5,5 @@
 ## modulo1
 ## modulo2
 ## modulo3
+ 
+Realizando alguns exercicios para fixar alguns conceitos aprendidos.
