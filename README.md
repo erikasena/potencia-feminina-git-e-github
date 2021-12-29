@@ -6,4 +6,11 @@
 ## modulo2
 ## modulo3
 
-Realizando algumas alteracoes para fixar o conteudo
+conceitos aprendidos nesse curso : conceitos iniciais de git e versionamentos
+comandos mais utilizados
+aprendemos a trabalhar com branch
+fazer pull request
+coloborar com projetos de outras pessoas
+e gerenciar issues e pull requestes com github projetc
+
+Realizando exercicios para fixacao
